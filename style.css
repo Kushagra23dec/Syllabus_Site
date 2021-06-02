@@ -5,8 +5,9 @@
 }
 
 body{
-     background-color: (#0968e5,#091970);
-}
+    background: -moz-linear-gradient(#0968e5,#091970);
+
+    }
 
 a{
     color:hotpink;
