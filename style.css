@@ -5,5 +5,9 @@
 }
 
 body{
-     background-image: url('/src/Black.svg');
+     background-color: (#0968e5,#091970);
+}
+
+a{
+    color:hotpink;
 }
