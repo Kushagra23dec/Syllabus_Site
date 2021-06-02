@@ -3,16 +3,17 @@
     padding: 0%;
     box-sizing: border-box;
 }
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css";
 
 body{
     background: -moz-linear-gradient(#0968e5,#091970);
 
     }
 
-a{
+/* a{
     color:hotpink;
 }
 
-a:hover{
-    background-color: brown;
-}
+button:hover{
+    background-color: black;
+} */
